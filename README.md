@@ -2,7 +2,11 @@
 
 A modern Flutter application that analyzes code complexity and provides optimization suggestions. This tool helps developers understand and improve their code quality through visual metrics and actionable insights.
 
-![Code Complexity Analyzer](https://github.com/yourusername/code-complexity-analyzer/raw/main/screenshots/demo.png)
+![Screenshot_1735065890](https://github.com/user-attachments/assets/0da0161f-491f-4bda-afdf-cb2d1d7b0583)
+![Screenshot_1735065898](https://github.com/user-attachments/assets/0bb85b5a-ef43-4ac9-8962-415cf931b03a)
+![Screenshot_1735065903](https://github.com/user-attachments/assets/33f3dd4d-0db7-467b-bb50-1cccf5b0fb65)
+
+
 
 ## Features
 
