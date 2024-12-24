@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="code_analyzer_app"
+        android:label="Code Analyzer"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
